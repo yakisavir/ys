@@ -1,0 +1,18 @@
+
+@font-face {
+  font-family: yakov;
+  src: url(yakov.ttf);
+
+}
+h1 {
+
+  
+  font-size: 250%;
+  color: darkblue;
+  text-align: center;
+  text-shadow: 2px 2px red, -13px 11px 3px lightblue, 13px -11px 3px green, 13px 11px 3px yellow;
+ font-family: yakov;
+}
+p {
+  columns: 3;
+}
